@@ -1,0 +1,30 @@
+@media screen and (min-width: 525px) {
+    #primary-view {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 524px) {
+    .profile-card {
+        width: 400px;
+    }
+}
+
+@media screen and (max-width: 415px) {
+    .profile-card {
+        width: 300px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .profile-card {
+        width: 250px;
+    }
+}
+
+@media screen and (max-width: 240px) {
+    .profile-card {
+        width: 200px;
+        font-size: 14px;
+    }
+}
